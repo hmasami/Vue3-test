@@ -10,8 +10,6 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 ## 🎯 目的
 
 VSCode から Vue3 テンプレート画面をローカルで開けるまでの手順。
-GitHub 連携（Push）まで含む。
-
 ---
 
 ## ① 必要なものを用意
